@@ -1,2 +1,2 @@
 # Netflix-Clone
-Skill:- HTML, CSS In this project, I made a Netflix landing web page clone using HTML CSS.
+For this project of creating a Netflix landing page clone using HTML and CSS, HTML would provide the structure and content of the page, while CSS would be responsible for making the page visually appealing and aligned with the design of the original Netflix landing page. By combining these technologies, you can replicate the look and feel of the Netflix page and create an engaging user experience for visitors.
